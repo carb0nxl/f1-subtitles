@@ -1,98 +1,100 @@
-Now, I will provide up to five different examples to highlight the problem.
+# F1TV SUBTITLE ISSUE DOCUMENTATION
 
-For each example, I will provide up to **three (3)** screenshots: 
+This document provides five examples to highlight the problem with the subtitle system in the F1TV content library across various platforms.
+
+For each example, up to three (3) screenshots are provided:
 
 - Safari browser
-- Firefox browser 
-- F1TV app on iPadOS 
+- Firefox browser
+- F1TV app on iPadOS
 
-This should demonstrate the glaring issue F1TV has with the subtitle system in the F1TV content library.
+## ISSUE DESCRIPTION
 
-*Using Safari:*
-The problem is that while the subtitles option exists, when you click on it, it only shows “unknown” for the language. 
-When you do select that language, there are still **no subtitles anyway.** 
+### SAFARI BROWSER
 
-*Using Firefox*
-When you watch the same content on Firefox, there is **no subtitle** option at all. Clicking the gear icon only presents one option: resolution.
+Although the subtitles option is available, clicking on it only displays "unknown" for the language. Even after selecting the language, no subtitles appear.
 
-*Using the F1TV app on iPad*
-On the iPad, it shows up as “CC” under Subtitles, but again, nothing actually ever appears on screen.
+### FIREFOX BROWSER
 
----
+When viewing the same content on Firefox, there is no subtitle option available. Clicking the gear icon only presents the resolution option.
 
-**Example A:**
-*Show*: Greatest Comebacks
-*Episode*: 1 (Mika Häkkinen)  
+### F1TV APP ON IPAD
 
-*Platform used*: Safari browser
-![[ex-A-safari.jpeg]]
+In the F1TV app on iPad, the subtitles option appears as "CC" (Closed Captions), but no subtitles are displayed on the screen.
 
-*Platform used*: Firefox browser
-![[ex-A-firefox.jpeg]]
+## EXAMPLES
 
-*Platform used*: iPad + F1TV app
-![[ex-A-ipad.jpeg]]
+### EXAMPLE A
 
----
-**Example B:**
-*Show*: Tech Talk Retro
-*Episode*: 2 (Ferrari 640)
+- Show: Greatest Comebacks
+- Episode: 1 (Mika Häkkinen)
 
-*Platform used*: Safari browser
-![[ex-B-safari.jpeg]]
+Safari Browser:
+![ex-A-safari.jpeg](attachments/ex-A-safari.jpeg)
 
-*Platform used*: Firefox browser
-![[ex-B-firefox.jpeg]]
+Firefox Browser:
+![ex-A-firefox.jpeg](attachments/ex-A-firefox.jpeg)
 
-*Platform used*: iPad + F1TV app
-![[ex-B-ipad.jpeg]]
+iPad + F1TV App:
+![ex-A-ipad.jpeg](attachments/ex-A-ipad.jpeg)
 
----
-**Example C:**
-*Show*: Racing ID
-*Episode*: 2 (Cornering)
+### EXAMPLE B
 
-*Platform used*: Safari browser
-![[ex-C-safari.jpeg]]
+- Show: Tech Talk Retro
+- Episode: 2 (Ferrari 640)
 
-*Platform used*: Firefox browser
-![[ex-C-firefox.jpeg]]
+Safari Browser:
+![ex-B-safari.jpeg](attachments/ex-B-safari.jpeg)
 
-*Platform used*: iPad + F1TV app
-![[ex-C-ipad.jpeg]]
+Firefox Browser:
+![ex-B-firefox.jpeg](attachments/ex-B-firefox.jpeg)
 
----
-**Example D:**
-*Show*: Jolyon Palmer's Analysis
-*Episode*: Bahrain Grand Prix
+iPad + F1TV App:
+![ex-B-ipad.jpeg](attachments/ex-B-ipad.jpeg)
 
-*Platform used*: Safari browser
-![[ex-D-safari.png]]
+### EXAMPLE C
 
-*Platform used*: Firefox browser
-![[ex-D-firefox.png]]
+- Show: Racing ID
+- Episode: 2 (Cornering)
 
-*Platform used*: iPad + F1TV app
-![[ex-D-ipad.png]]
+Safari Browser:
+![ex-C-safari.jpeg](attachments/ex-C-safari.jpeg)
 
----
-**Example E:**
-*Show*: Beyond All Limits
-*Episode*: S2: Episode 2 
+Firefox Browser:
+![ex-C-firefox.jpeg](attachments/ex-C-firefox.jpeg)
 
-*Platform used*: Safari browser
-![[ex-E-safari.png]]
+iPad + F1TV App:
+![ex-C-ipad.jpeg](attachments/ex-C-ipad.jpeg)
 
-*Platform used*: Firefox browser
-![[ex-E-firefox.png]]
+### EXAMPLE D
 
-*Platform used*: iPad + F1TV app
-![[ex-E-ipad.png]]
+- Show: Jolyon Palmer's Analysis
+- Episode: Bahrain Grand Prix
 
----
+Safari Browser:
+![ex-D-safari.png](attachments/ex-D-safari.png)
 
-**Video demonstration:**
+Firefox Browser:
+![ex-D-firefox.png](attachments/ex-D-firefox.png)
 
-*Platform used: Safari*
-https://youtu.be/YY1J4VCkWWY
+iPad + F1TV App:
+![ex-D-ipad.png](attachments/ex-D-ipad.png)
 
+### EXAMPLE E
+
+- Show: Beyond All Limits
+- Episode: S2: Episode 2
+
+Safari Browser:
+![ex-E-safari.png](attachments/ex-E-safari.png)
+
+Firefox Browser:
+![ex-E-firefox.png](attachments/ex-E-firefox.png)
+
+iPad + F1TV App:
+![ex-E-ipad.png](attachments/ex-E-ipad.png)
+
+## VIDEO DEMONSTRATION
+
+A video demonstration of the issue on the Safari browser can be found at:
+<https://youtu.be/YY1J4VCkWWY>
